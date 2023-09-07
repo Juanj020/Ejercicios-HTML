@@ -16,7 +16,14 @@ nav{
 
 li{
     list-style:none;
-    color:blueviolet
+    color:blueviolet; 
+    background-color: rgb(127, 193, 255);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+li:hover{
+    transform: scale(2);
 }
 
 .articulos{
